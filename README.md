@@ -1,1 +1,1 @@
-# 2024-Nuxt-api
+# nuxt-api
